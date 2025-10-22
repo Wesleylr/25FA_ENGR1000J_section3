@@ -12,7 +12,7 @@ The stage is set. A sleek, polished arena stretches 5 meters long and 2 meters w
 
 In the silence before the race begins, there’s a bond between them—a shared goal. One robot, sleek and equipped with an **ultrasonic sensor**, will serve as the guide. It can detect obstacles, anticipate dangers, and share vital information. Its partner, a robust but sensorless robot, will rely entirely on the sensor-equipped car for direction.
 
-The race begins in a dramatic fashion. Both cars rotate **360 degrees together within a bounding box. For this part, time cost will not be counted, and this is worth 20 points. **, signaling their intent and readiness to tackle the challenge. The plastic board, their shared burden, sits carefully balanced on top. The decision lies ahead: How will these two cars collaborate? The choice could mean triumph or disaster, but the journey must begin.
+The race begins in a dramatic fashion. Both cars rotate **360 degrees together within a bounding box. For this part, time cost will not be counted, and this is worth 20 points.**, signaling their intent and readiness to tackle the challenge. The plastic board, their shared burden, sits carefully balanced on top. The decision lies ahead: How will these two cars collaborate? The choice could mean triumph or disaster, but the journey must begin.
 
 ## **2. Track Category**
 
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
