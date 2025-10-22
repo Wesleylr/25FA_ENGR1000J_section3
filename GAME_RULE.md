@@ -93,7 +93,7 @@ Example 2: if you fail the easy track 5 times, you have no chances left.
 To allow both cars to cross the finish line together with the plastic board, you can place one car upside down and stack them with the plastic board in between. Drill four holes in the plastic board, and have the upper car use an ultrasonic sensor to measure the distance. The measured data can then be sent to the lower car.
 
 <p align="center">
-  <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image1.png">
+  <img src="https://github.com/Wesleylr/25FA_ENGR1000J_section3/blob/main/image1.png">
 </p>
 
 
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
