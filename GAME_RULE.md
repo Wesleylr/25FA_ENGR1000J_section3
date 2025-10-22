@@ -115,7 +115,7 @@ graph TD
 
 Easy track: The topology is provided and fixed, as in the figure below.
 
-Medium track: The topology consists of three layers, each including two or three obstacles. The distance between layers is flexible. The two cylinders on the second layer are fixed. The horizontal distance between the cube and the two cylinders on the second layer is flexible.
+Medium track: The topology consists of three or four layers, each including two or three obstacles. The distance between layers is flexible. The two cylinders on the second layer are fixed. The horizontal distance between the cube and the two cylinders on the second layer is flexible.
 
 Hard track: An example is provided below. On the game day, a similar track will be provided. The logic provided above has been tested to pass the hard track. 
 
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
