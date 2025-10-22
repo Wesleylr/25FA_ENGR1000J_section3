@@ -120,7 +120,7 @@ Medium track: The topology consists of three layers, each including two or three
 Hard track: An example is provided below. On the game day, a similar track will be provided. The logic provided above has been tested to pass the hard track. 
 
 <p align="center">
-  <img src="https://github.com/Amagerd1113/24FA_ENGR1000J_section3/blob/main/image2.png">
+  <img src="https://github.com/Wesleylr/25FA_ENGR1000J_section3/blob/main/image2.png">
 </p>
 
 ## **Ready?**
@@ -128,6 +128,7 @@ Hard track: An example is provided below. On the game day, a similar track will 
 The road is long, the obstacles plenty, and only those who communicate, collaborate, and persevere will prevail. Will you guide your team to victory on this winding, obstacle-ridden track? The journey is about to begin…
 
 ---
+
 
 
 
